@@ -1,0 +1,6 @@
+slak
+ls
+ls -a
+echo "/bin/ls/"
+echo "hello"
+/bin/ls
